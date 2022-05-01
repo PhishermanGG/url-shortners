@@ -90,3 +90,6 @@ goo.su
 wlsys.space
 tinylink.so
 shrinke.me
+ow.ly
+goo-gl.me
+vk.cc
