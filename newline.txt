@@ -98,3 +98,5 @@ short.io
 bl.ink
 sniply.io
 t2mio.com
+dlvr.it
+chng.it
