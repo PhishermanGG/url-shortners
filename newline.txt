@@ -102,3 +102,5 @@ dlvr.it
 chng.it
 urlcc.cc
 urly.it
+bom.so
+inlnk.ru
