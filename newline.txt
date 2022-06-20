@@ -110,3 +110,6 @@ i7.cx
 x8.fit
 sh.st
 surl.li
+goolnk.com
+t.ly
+shorturl.at

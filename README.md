@@ -1,7 +1,7 @@
 # Readme
 
-This repro is an attempt to keep a list of URL shortner services. You are free to use this list as you please!
+This repository is an attempt to keep a list of URL shortening services. You are free to use this list as you please!
 
 ## Contributions
 
-PR's are welcome 🙂
+Pull Requests are welcome 🙂
