@@ -5,3 +5,5 @@ This repository is an attempt to keep a list of URL shortening services. You are
 ## Contributions
 
 Pull Requests are welcome 🙂
+
+When submitting domains, please ensure to keep the list alphabetically sorted.
