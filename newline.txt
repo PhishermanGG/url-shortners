@@ -75,6 +75,7 @@ rlu.ru
 rom.io
 seomafia.net
 shorl.com
+shorte.st
 shorturl.at
 short.io
 short.pe
@@ -118,3 +119,4 @@ x8.fit
 yep.it
 zipansion.com
 zo.ee
+zzb.bz
