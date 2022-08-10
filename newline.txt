@@ -34,6 +34,7 @@ cutt.ly
 cutt.us
 cutwin.com
 cuty.io
+cya.nz
 direct-link.net
 dlvr.it
 doiop.com
@@ -52,6 +53,7 @@ goshrink.com
 hotshorturl.com
 href.li
 hypeurl.co
+i.gal
 i7.cx
 inlnk.ru
 inv.wtf
@@ -84,6 +86,7 @@ rebrand.ly
 rlu.ru
 rom.io
 s.benny.sh
+s.id
 seomafia.net
 sh.st
 shorl.com
