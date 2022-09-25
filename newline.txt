@@ -13,6 +13,7 @@ beam.to
 binbucks.com
 bit.do
 bit.ly
+bitdo.xyz
 bitly.ws
 bl.ink
 blv.me
@@ -129,6 +130,7 @@ vk.cc
 wicr.me
 wlcore.space
 wlsys.space
+wow.link
 x8.fit
 yep.it
 zipansion.com
