@@ -1,6 +1,7 @@
 1o2.ir
 3c5.com
 9en.us
+9k.gg
 adbilty.me
 adbooth.net
 adf.ly
@@ -15,6 +16,7 @@ binbucks.com
 bit.do
 bit.ly
 bitdo.xyz
+bitly.lc
 bitly.ws
 bl.ink
 blv.me
@@ -37,6 +39,7 @@ cutt.us
 cutwin.com
 cuty.io
 cya.nz
+dausel.co
 direct-link.net
 dlvr.it
 doiop.com
@@ -96,6 +99,7 @@ shorl.com
 short.io
 short.pe
 shorte.st
+shorturl.ae
 shorturl.at
 shorturl.gg
 shrftly.com
