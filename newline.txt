@@ -34,6 +34,7 @@ clk.sh
 cpmlink.net
 ctrlv.link
 cut-urls.com
+cuti.cc
 cutt.ly
 cutt.us
 cutwin.com
