@@ -32,7 +32,9 @@ clicksfly.com
 clk.asia
 clk.im
 clk.sh
+come.to
 cpmlink.net
+ctiny.me
 ctrlv.link
 cut-urls.com
 cuti.cc
@@ -119,6 +121,7 @@ t.co
 t.ly
 t2mio.com
 tab.bz
+taplink.cc
 tiny.cc
 tinylink.so
 tinyurl.com
@@ -145,4 +148,3 @@ yep.it
 zipansion.com
 zo.ee
 zzb.bz
-taplink.cc
